@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" type = "text/css" href = "style.css"/>
+        div time {color: red;}
+
+        #main>h3  {
+                color:purple;
+        }
+
+        #main p:first-child  {
+                background-color:greenyellow;
+        }
+</head>
+<body>
+    
+</body>
+</html>
